@@ -1,0 +1,3341 @@
+{
+  "1. Total flights per aircraft model": [
+    {
+      "model": "Airbus A320 NEO",
+      "flight_count": 71
+    },
+    {
+      "model": "Airbus A321 NEO",
+      "flight_count": 53
+    },
+    {
+      "model": "Airbus A320",
+      "flight_count": 30
+    },
+    {
+      "model": "Boeing 737-800",
+      "flight_count": 23
+    },
+    {
+      "model": "Boeing 737 MAX 8",
+      "flight_count": 22
+    },
+    {
+      "model": "Boeing 737",
+      "flight_count": 12
+    },
+    {
+      "model": "Airbus A320 (Sharklets)",
+      "flight_count": 9
+    },
+    {
+      "model": "Airbus A321",
+      "flight_count": 6
+    },
+    {
+      "model": "Airbus A350-1000",
+      "flight_count": 4
+    },
+    {
+      "model": "Airbus A350-900",
+      "flight_count": 4
+    },
+    {
+      "model": "Boeing 787-10",
+      "flight_count": 4
+    },
+    {
+      "model": "Boeing 787-8",
+      "flight_count": 3
+    },
+    {
+      "model": "Boeing 777-300ER",
+      "flight_count": 3
+    },
+    {
+      "model": "Boeing 787-800",
+      "flight_count": 3
+    },
+    {
+      "model": "ATR 72",
+      "flight_count": 2
+    },
+    {
+      "model": "Boeing 777-300",
+      "flight_count": 2
+    },
+    {
+      "model": "Boeing 787-9",
+      "flight_count": 2
+    },
+    {
+      "model": "Airbus A380-800",
+      "flight_count": 2
+    },
+    {
+      "model": "Boeing 737-700",
+      "flight_count": 2
+    },
+    {
+      "model": "Airbus A319",
+      "flight_count": 2
+    },
+    {
+      "model": "Airbus A321 (Sharklets)",
+      "flight_count": 1
+    },
+    {
+      "model": "Airbus A380",
+      "flight_count": 1
+    },
+    {
+      "model": "Boeing 737-900",
+      "flight_count": 1
+    }
+  ],
+  "2. Aircraft (>5 flights)": [],
+  "3. Airports with outbound flights (>5)": [
+    {
+      "name": "Bangalore Bengaluru",
+      "iata_code": "BLR",
+      "outbound_count": 162
+    },
+    {
+      "name": "Mumbai Chhatrapati Shivaji",
+      "iata_code": "BOM",
+      "outbound_count": 149
+    },
+    {
+      "name": "New Delhi Indira Gandhi",
+      "iata_code": "DEL",
+      "outbound_count": 101
+    },
+    {
+      "name": "Dubai",
+      "iata_code": "DXB",
+      "outbound_count": 38
+    },
+    {
+      "name": "London Heathrow",
+      "iata_code": "LHR",
+      "outbound_count": 8
+    }
+  ],
+  "4. Top 3 destination airports by arrivals": [
+    {
+      "name": "New Delhi Indira Gandhi",
+      "city": "New Delhi",
+      "iata_code": "DEL",
+      "arrivals": 91
+    },
+    {
+      "name": "Mumbai Chhatrapati Shivaji",
+      "city": "Mumbai",
+      "iata_code": "BOM",
+      "arrivals": 70
+    },
+    {
+      "name": "Bangalore Bengaluru",
+      "city": "Bangalore",
+      "iata_code": "BLR",
+      "arrivals": 40
+    }
+  ],
+  "5. Flights with Domestic/International label": [
+    {
+      "flight_number": "AI 1735",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2068",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 508",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2767",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 1717",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 17",
+      "origin": "Dubai",
+      "destination": "Kochi Cochin",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 881",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 9010",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2960",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 131",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 6318",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 517",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 359",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5228",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6082",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1559",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 1455",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "SG 920A",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5294",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QF 8005",
+      "origin": "Dubai",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2853",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 161",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2885",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 649",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6828",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2577",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 887",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6595",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 172",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5218",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 133",
+      "origin": "Bangalore Bengaluru",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 6039",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 691",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 469",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 197",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2511",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 506",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6572",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1364",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5351",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1544",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 181",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 303",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 843",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 447",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1821",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6067",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 674",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1601",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2418",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 969",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Visakhapatnam Vishakhapatnam",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 106",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1172",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2422",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2247",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 6",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "BA 108",
+      "origin": "Dubai",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 6477",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 938",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 648",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2489",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6045",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6563",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5323",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 60",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 1733",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 781",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2971",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2665",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 809",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 241",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2687",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2910",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5221",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1214",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 681",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 573",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 621",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 790",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2481",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2849",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2493",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 664",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5228",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2619",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2440",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 669",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 528",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 197",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2718",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1168",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2913",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1986",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 356",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2854",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6034",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2820",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 7586",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Madurai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 136",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 732",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 676",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 838",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 144",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6017",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2802",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2610",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 638",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 735",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 903",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5376",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2068",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1693",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1603",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2015",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1803",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 514",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 864",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 802",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 17",
+      "origin": "Dubai",
+      "destination": "Kochi Cochin",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 781",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5048",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2493",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2996",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 683",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2426",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2600",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2489",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 780",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 809",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2757",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 514",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "SG 938",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 1740",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2910",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2849",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 790",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5047",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 233",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 669",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2941",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1819",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 681",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2440",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2641",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 435",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5088",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 685",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 5",
+      "origin": "Dubai",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 528",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5073",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1168",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2913",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 356",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6034",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2820",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 7586",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Madurai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2854",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 732",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 838",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 676",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 136",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 144",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2802",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6017",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 638",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1040",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 735",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2610",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 903",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6787",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2702",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2343",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2788",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2358",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5393",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6835",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1539",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2812",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 1607",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "BA 138",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2452",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2858",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1811",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2873",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1194",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6483",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 569",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "SG 875",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1602",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1359",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 408",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "VS 317",
+      "origin": "Bangalore Bengaluru",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 6445",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2414",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5114",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6021",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1131",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2926",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 538",
+      "origin": "Dubai",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "FZ 437",
+      "origin": "Dubai",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 2130",
+      "origin": "Dubai",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "SG 12",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2212",
+      "origin": "Dubai",
+      "destination": "Chennai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2204",
+      "origin": "Dubai",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "FZ 445",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 2136",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 984",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "VN 3194",
+      "origin": "London Heathrow",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "VS 300",
+      "origin": "London Heathrow",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "DL 5947",
+      "origin": "London Heathrow",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 2343",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 161",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2885",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2702",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2788",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6828",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2577",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2766",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1230",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 534",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 136",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 501",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 656",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 866",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2743",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1282",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5052",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "FZ 446",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "QP 1304",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "BZ 308",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 141",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2810",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1736",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 655",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1561",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2678",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 24",
+      "origin": "Dubai",
+      "destination": "Madurai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 1720",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2985",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 963",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6773",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2805",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1350",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2545",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1235",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 448",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 933",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2973",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2679",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 1714",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6924",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2957",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2871",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1601",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2401",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1195",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 669",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 738",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6613",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 983",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2865",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "S5 396",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5092",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2791",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2940",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2869",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2827",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 1895",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 696",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2408",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5268",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 102",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 573",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 816",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5062",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2988",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 413",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2062",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 5001",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1366",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6423",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1871",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2818",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 975",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1437",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 441",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "9I 517",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1240",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2787",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AKJ 1437",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6234",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2850",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 2034",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6177",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5094",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2680",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6919",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2814",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6788",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 952",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2642",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1906",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2488",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 116",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 268",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5295",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6178",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2840",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6813",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2811",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2758",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 2260",
+      "origin": "Dubai",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "FZ 461",
+      "origin": "Dubai",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2218",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 1464",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2202",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "FZ 453",
+      "origin": "Dubai",
+      "destination": "Kochi Cochin",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2909",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 1706",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1040",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6131",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2999",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1409",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2253",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 519",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1056",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1812",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2386",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 185",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2437",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6792",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6114",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2439",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6410",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 879",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5291",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5189",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5264",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5388",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2919",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 509",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 5238",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1528",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "9I 926",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1738",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2986",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1367",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2643",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2857",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5322",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5393",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2928",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6563",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2925",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2858",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5323",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2873",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1811",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6483",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 569",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "SG 875",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1602",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1359",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 408",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "VS 317",
+      "origin": "Bangalore Bengaluru",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 6445",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 1456",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 568",
+      "origin": "Dubai",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 524",
+      "origin": "Dubai",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 512",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 532",
+      "origin": "Dubai",
+      "destination": "Kochi Cochin",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 500",
+      "origin": "Dubai",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "IX 198",
+      "origin": "Dubai",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 9202",
+      "origin": "Dubai",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 161",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 2702",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2885",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2343",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2788",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6828",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "BA 142",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 2358",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 887",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2766",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1230",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 1607",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2247",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6477",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2812",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 648",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "BA 138",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 6045",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 9661",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2452",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 554",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 874",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 106",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 534",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 136",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 501",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "VS 359",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 656",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2743",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1282",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2414",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5114",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6021",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1131",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2926",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 141",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1736",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2810",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2678",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 655",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 996",
+      "origin": "Dubai",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "SG 24",
+      "origin": "Dubai",
+      "destination": "Madurai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 1882",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 554",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2007",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 386",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 250",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2643",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5264",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Lucknow Chaudhary Charan Singh",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1528",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QP 1738",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2007",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 678",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 639",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Chennai",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "SG 386",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 1882",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2857",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2577",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "BA 142",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 2358",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 887",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2766",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "EK 513",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 2471",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 1230",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Pune",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2308",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Ahmedabad Sardar Vallabhbhai Patel",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 2255",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Hyderabad Rajiv Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2653",
+      "origin": "New Delhi Indira Gandhi",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 549",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Kochi Cochin",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5052",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "AI 2501",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Jaipur",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 5248",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Visakhapatnam Vishakhapatnam",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "FZ 446",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 866",
+      "origin": "Mumbai Chhatrapati Shivaji",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "QO 378",
+      "origin": "Bangalore Bengaluru",
+      "destination": "New Delhi Indira Gandhi",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "IX 2064",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Visakhapatnam Vishakhapatnam",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "6E 6439",
+      "origin": "Bangalore Bengaluru",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "Domestic"
+    },
+    {
+      "flight_number": "BA 106",
+      "origin": "Dubai",
+      "destination": "London Heathrow",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "EK 570",
+      "origin": "Dubai",
+      "destination": "Kolkata Netaji Subhash Chandra Bose",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "IB 3539",
+      "origin": "London Heathrow",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "BA 109",
+      "origin": "London Heathrow",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AA 7157",
+      "origin": "London Heathrow",
+      "destination": "Dubai",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "6E 2",
+      "origin": "London Heathrow",
+      "destination": "Mumbai Chhatrapati Shivaji",
+      "route_type": "International"
+    },
+    {
+      "flight_number": "AI 132",
+      "origin": "London Heathrow",
+      "destination": "Bangalore Bengaluru",
+      "route_type": "International"
+    }
+  ],
+  "6. 5 most recent arrivals at DEL": [
+    {
+      "flight_number": "SG 136",
+      "aircraft_registration": "VT-SLA",
+      "departure_airport": "Bangalore Bengaluru",
+      "arrival_time": null
+    },
+    {
+      "flight_number": "AI 2687",
+      "aircraft_registration": "VT-CIG",
+      "departure_airport": "Mumbai Chhatrapati Shivaji",
+      "arrival_time": null
+    },
+    {
+      "flight_number": "6E 6039",
+      "aircraft_registration": "VT-NCF",
+      "departure_airport": "Bangalore Bengaluru",
+      "arrival_time": null
+    },
+    {
+      "flight_number": "QP 1821",
+      "aircraft_registration": "VT-YBN",
+      "departure_airport": "Bangalore Bengaluru",
+      "arrival_time": null
+    },
+    {
+      "flight_number": "IX 1693",
+      "aircraft_registration": "VT-EXD",
+      "departure_airport": "Bangalore Bengaluru",
+      "arrival_time": null
+    }
+  ],
+  "7. Airports with no arriving flights": [],
+  "8. Flights by airline and status": [
+    {
+      "airline_code": "6E",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 159
+    },
+    {
+      "airline_code": "AI",
+      "on_time": 0,
+      "delayed": 1,
+      "cancelled": 0,
+      "total": 131
+    },
+    {
+      "airline_code": "SG",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 47
+    },
+    {
+      "airline_code": "IX",
+      "on_time": 0,
+      "delayed": 1,
+      "cancelled": 0,
+      "total": 38
+    },
+    {
+      "airline_code": "QP",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 34
+    },
+    {
+      "airline_code": "EK",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 21
+    },
+    {
+      "airline_code": "BA",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 7
+    },
+    {
+      "airline_code": "FZ",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 6
+    },
+    {
+      "airline_code": "VS",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 4
+    },
+    {
+      "airline_code": "9I",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 2
+    },
+    {
+      "airline_code": "S5",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "QF",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "VN",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "AA",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "IB",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": null,
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "BZ",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "DL",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    },
+    {
+      "airline_code": "QO",
+      "on_time": 0,
+      "delayed": 0,
+      "cancelled": 0,
+      "total": 1
+    }
+  ],
+  "9. Cancelled flights": [],
+  "10. City pairs with >2 aircraft models": [
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "DEL",
+      "origin_city": "Bangalore",
+      "destination_city": "New Delhi",
+      "distinct_models": 9
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "BOM",
+      "origin_city": "Bangalore",
+      "destination_city": "Mumbai",
+      "distinct_models": 7
+    },
+    {
+      "origin_iata": "BOM",
+      "destination_iata": "BLR",
+      "origin_city": "Mumbai",
+      "destination_city": "Bangalore",
+      "distinct_models": 7
+    },
+    {
+      "origin_iata": "DXB",
+      "destination_iata": "BOM",
+      "origin_city": "Dubai",
+      "destination_city": "Mumbai",
+      "distinct_models": 6
+    },
+    {
+      "origin_iata": "BOM",
+      "destination_iata": "DEL",
+      "origin_city": "Mumbai",
+      "destination_city": "New Delhi",
+      "distinct_models": 5
+    },
+    {
+      "origin_iata": "DEL",
+      "destination_iata": "PNQ",
+      "origin_city": "New Delhi",
+      "destination_city": "Pune",
+      "distinct_models": 5
+    },
+    {
+      "origin_iata": "DEL",
+      "destination_iata": "BLR",
+      "origin_city": "New Delhi",
+      "destination_city": "Bangalore",
+      "distinct_models": 5
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "HYD",
+      "origin_city": "Bangalore",
+      "destination_city": "Hyderabad",
+      "distinct_models": 4
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "MAA",
+      "origin_city": "Bangalore",
+      "destination_city": "Chennai",
+      "distinct_models": 4
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "PNQ",
+      "origin_city": "Bangalore",
+      "destination_city": "Pune",
+      "distinct_models": 4
+    },
+    {
+      "origin_iata": "BOM",
+      "destination_iata": "MAA",
+      "origin_city": "Mumbai",
+      "destination_city": "Chennai",
+      "distinct_models": 4
+    },
+    {
+      "origin_iata": "DXB",
+      "destination_iata": "DEL",
+      "origin_city": "Dubai",
+      "destination_city": "New Delhi",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "CCU",
+      "origin_city": "Bangalore",
+      "destination_city": "Kolkata",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "COK",
+      "origin_city": "Bangalore",
+      "destination_city": "Kochi",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "JAI",
+      "origin_city": "Bangalore",
+      "destination_city": "Jaipur",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "LKO",
+      "origin_city": "Bangalore",
+      "destination_city": "Lucknow",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BOM",
+      "destination_iata": "CCU",
+      "origin_city": "Mumbai",
+      "destination_city": "Kolkata",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BOM",
+      "destination_iata": "JAI",
+      "origin_city": "Mumbai",
+      "destination_city": "Jaipur",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "DEL",
+      "destination_iata": "BOM",
+      "origin_city": "New Delhi",
+      "destination_city": "Mumbai",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "DEL",
+      "destination_iata": "CCU",
+      "origin_city": "New Delhi",
+      "destination_city": "Kolkata",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "DEL",
+      "destination_iata": "HYD",
+      "origin_city": "New Delhi",
+      "destination_city": "Hyderabad",
+      "distinct_models": 3
+    },
+    {
+      "origin_iata": "BLR",
+      "destination_iata": "AMD",
+      "origin_city": "Bangalore",
+      "destination_city": "Ahmedabad",
+      "distinct_models": 3
+    }
+  ],
+  "11. Delayed arrivals % by destination airport": [
+    {
+      "iata_code": "BOM",
+      "name": "Mumbai Chhatrapati Shivaji",
+      "city": "Mumbai",
+      "total_arrivals": 70,
+      "delayed_arrivals": 1,
+      "pct_delayed": "1.43"
+    },
+    {
+      "iata_code": "DEL",
+      "name": "New Delhi Indira Gandhi",
+      "city": "New Delhi",
+      "total_arrivals": 91,
+      "delayed_arrivals": 1,
+      "pct_delayed": "1.10"
+    },
+    {
+      "iata_code": "CCU",
+      "name": "Kolkata Netaji Subhash Chandra Bose",
+      "city": "Kolkata",
+      "total_arrivals": 39,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "IXM",
+      "name": "Madurai",
+      "city": "Madurai",
+      "total_arrivals": 4,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "VTZ",
+      "name": "Visakhapatnam Vishakhapatnam",
+      "city": "Visakhapatnam",
+      "total_arrivals": 3,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "JAI",
+      "name": "Jaipur",
+      "city": "Jaipur",
+      "total_arrivals": 18,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "PNQ",
+      "name": "Pune",
+      "city": "Pune",
+      "total_arrivals": 35,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "AMD",
+      "name": "Ahmedabad Sardar Vallabhbhai Patel",
+      "city": "Ahmedabad",
+      "total_arrivals": 28,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "COK",
+      "name": "Kochi Cochin",
+      "city": "Kochi",
+      "total_arrivals": 20,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "HYD",
+      "name": "Hyderabad Rajiv Gandhi",
+      "city": "Hyderabad",
+      "total_arrivals": 30,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "DXB",
+      "name": "Dubai",
+      "city": "Dubai",
+      "total_arrivals": 14,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "MAA",
+      "name": "Chennai",
+      "city": "Chennai",
+      "total_arrivals": 37,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "LKO",
+      "name": "Lucknow Chaudhary Charan Singh",
+      "city": "Lucknow",
+      "total_arrivals": 13,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "BLR",
+      "name": "Bangalore Bengaluru",
+      "city": "Bangalore",
+      "total_arrivals": 40,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    },
+    {
+      "iata_code": "LHR",
+      "name": "London Heathrow",
+      "city": "London",
+      "total_arrivals": 16,
+      "delayed_arrivals": 0,
+      "pct_delayed": "0.00"
+    }
+  ]
+}
