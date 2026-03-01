@@ -120,16 +120,30 @@ Implemented in `database/queries.sql` and executable with `scripts/execute_queri
 - AeroDataBox RapidAPI key
 
 ### Environment
-Create `.env` in project root:
+Create your environment file from the template:
+
+```bash
+# Windows
+copy .env.example .env
+
+# macOS/Linux
+cp .env.example .env
+```
+
+Then edit `.env` in project root:
 
 ```env
-RAPIDAPI_KEY=your_rapidapi_key
-DB_HOST=...
-DB_NAME=...
-DB_USER=...
-DB_PASSWORD=...
+RAPIDAPI_KEY=your_rapidapi_key_here
+DB_HOST=your_db_host
+DB_NAME=your_db_name
+DB_USER=your_db_user
+DB_PASSWORD=your_db_password
 DB_PORT=5432
+DELAY_AIRPORTS=DEL,BOM,BLR
+DELAY_DAYS=1
 ```
+
+Note: `.env` is intentionally git-ignored. Commit `.env.example`, never commit real credentials.
 
 ### Install
 
