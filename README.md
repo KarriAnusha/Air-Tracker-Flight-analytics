@@ -225,6 +225,3 @@ Air-Tracker-Flight-Analytics/
 - Streamlit analytics application
 - Consolidated project documentation (this README)
 
-## License
-
-MIT (or project/course license as applicable).
